@@ -1,0 +1,12 @@
+     1st 
+         type given below:
+           
+           
+           sh install.sh
+           
+           
+     2nd 
+         type given below:
+           
+           
+           python2 inst.py
