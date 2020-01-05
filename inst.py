@@ -9,7 +9,7 @@ print """
 |.                                            |
 |.  coded by::Tech Teams                      |
 |.                                            |
-|.  Whatsapp no::7200200801                   |
+|.  Fb:: muhamed Lafeer                                          |
 |.                                            |
 |.  Follow me on:Instagram::ig_lafeer         |
 |.                                            |
@@ -78,7 +78,7 @@ if a==10:
 if a==99:
   print("Author : Muhamed Lafeer")
   print("coded by : Tech Hacker")
-  print("WhatsApp : 7200200801")
+  print("Insta : ig_lafeer")
   
 else:
   os.system("python2 b.py")
@@ -87,4 +87,4 @@ else:
 def about():
   print("Author : Muhamed Lafeer")
   print("coded by : Tech Hacker")
-  print("WhatsApp : 7200200801")
+  print("Inst : ig_lafeer")
