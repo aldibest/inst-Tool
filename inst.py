@@ -76,17 +76,14 @@ if a==9:
 if a==10:
   os.system("exit")
 if a==99:
-  print("Author : Muhamed Lafeer")
-  print("coded by : Tech Hacker")
-  print("Insta : ig_lafeer")
+\033[1;35m
+  print""-------------------------
+         |Author : Muhamed Lafeer|
+         |coded by : Tech Hacker |
+         |Insta : ig_lafeer      |
+         ------------------------- 
   time.sleep(10)
   os.system("python2 inst.py")
   
 else:
   print("Entered wrong")
-  
-def about():
-  print("Author : Muhamed Lafeer")
-  print("coded by : Tech Hacker")
-  print("Inst : ig_lafeer")
-  time.sleep(1)
