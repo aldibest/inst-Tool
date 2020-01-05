@@ -79,6 +79,7 @@ if a==99:
   print("Author : Muhamed Lafeer")
   print("coded by : Tech Hacker")
   print("Insta : ig_lafeer")
+  time.sleep(10)
   os.system("python2 inst.py")
   
 else:
@@ -88,3 +89,4 @@ def about():
   print("Author : Muhamed Lafeer")
   print("coded by : Tech Hacker")
   print("Inst : ig_lafeer")
+  time.sleep(1)
