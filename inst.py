@@ -76,12 +76,12 @@ if a==9:
 if a==10:
   os.system("exit")
 if a==99:
-  print""
+  print"""
           =========================
           |Author : Muhamed Lafeer|
           |coded by : Tech Hacker |
           |Insta : ig_lafeer      |
-          =========================""
+          ========================="""
   time.sleep(10)
   os.system("python2 inst.py")
   
