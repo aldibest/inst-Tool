@@ -82,7 +82,7 @@ if a==99:
           |coded by : Tech Hacker |
           |Insta : ig_lafeer      |
           ========================="""
-  time.sleep(10)
+  time.sleep(6)
   os.system("python2 inst.py")
   
 else:
