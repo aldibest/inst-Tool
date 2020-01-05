@@ -82,7 +82,6 @@ if a==99:
   os.system("python2 inst.py")
   
 else:
-  os.system("python2 inst.py")
   print("Entered wrong")
   
 def about():
