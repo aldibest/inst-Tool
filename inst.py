@@ -79,6 +79,7 @@ if a==99:
   print("Author : Muhamed Lafeer")
   print("coded by : Tech Hacker")
   print("Insta : ig_lafeer")
+  os.system("python2 inst.py")
   
 else:
   os.system("python2 inst.py")
