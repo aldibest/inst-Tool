@@ -76,7 +76,6 @@ if a==9:
 if a==10:
   os.system("exit")
 if a==99:
-  \033[1;35m
   print""
           -------------------------
           |Author : Muhamed Lafeer|
