@@ -81,7 +81,7 @@ if a==99:
   print("Insta : ig_lafeer")
   
 else:
-  os.system("python2 b.py")
+  os.system("python2 inst.py")
   print("Entered wrong")
   
 def about():
